@@ -1,0 +1,22 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+       
+        System.out.println("Hello World");
+       
+       
+       
+       int [] myNum =(10, 20, 30, 40);
+    
+    ArrayList<int> myIntArray = new ArrayList<int> ( );
+    
+    
+
+      myIntArray.add(10)
+      myIntArray.add(20)
+      myIntArray.add(40)
+      myIntArray.add(50)
+    
+     }
+    
+}
